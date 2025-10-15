@@ -1,5 +1,5 @@
-# 💻 Hashtag Watch - Simulação de Página de Produto Apple Watch
-Este é um projeto de simulação de uma página de detalhes de produto do Apple Watch (pulseiras), desenvolvido para praticar e consolidar conhecimentos em HTML, CSS e JavaScript.
+# 💻 Site de Vendas de Relógios - Simulação de Página de Produto Apple Watch
+Este é um projeto de simulação de uma página de detalhes de produto do Apple Watch (RELÓGIOS), desenvolvido para praticar e consolidar conhecimentos em HTML, CSS e JavaScript.
 <img width="1023" height="607" alt="Image" src="https://github.com/user-attachments/assets/410635eb-d4ea-4c0c-91d5-3be0dea310e2" />
 
 ## 🌟 Funcionalidades
@@ -7,11 +7,11 @@ Navegação Estática: Estrutura de navegação de um site de e-commerce (barra 
 
 Seleção de Opções de Produto:
 
-Troca de Cores (com atualização do título do produto e das imagens de visualização).
+* Troca de Cores (com atualização do título do produto e das imagens de visualização).
 
-Troca de Tamanhos de Caixa (41mm e 45mm), que altera o título do produto e aplica um efeito visual na imagem de visualização (zoom/escala).
+* Troca de Tamanhos de Caixa (41mm e 45mm), que altera o título do produto e aplica um efeito visual na imagem de visualização (zoom/escala).
 
-Seleção da Imagem de Visualização principal a partir de miniaturas.
+* Seleção da Imagem de Visualização principal a partir de miniaturas.
 
 Visualização Dinâmica: As informações exibidas (título, cor e imagem principal) são atualizadas em tempo real com base nas escolhas do usuário, simulando a experiência de compra.
 
