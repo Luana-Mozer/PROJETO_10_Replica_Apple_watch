@@ -1,5 +1,6 @@
 # 💻 Hashtag Watch - Simulação de Página de Produto Apple Watch
 Este é um projeto de simulação de uma página de detalhes de produto do Apple Watch (pulseiras), desenvolvido para praticar e consolidar conhecimentos em HTML, CSS e JavaScript.
+<img width="1023" height="607" alt="Image" src="https://github.com/user-attachments/assets/410635eb-d4ea-4c0c-91d5-3be0dea310e2" />
 
 ## 🌟 Funcionalidades
 Navegação Estática: Estrutura de navegação de um site de e-commerce (barra superior).
