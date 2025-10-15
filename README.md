@@ -22,19 +22,6 @@ HTML5	Estruturação semântica do conteúdo da página.
 CSS3 (SCSS/BEM)	Estilização avançada com uso de @font-face (para simular a fonte "San Francisco"), Flexbox para layout responsivo, e uma estrutura modular de estilos (simulando SCSS/BEM com CSS puro para fins práticos).
 JavaScript (Vanilla)	Manipulação do DOM para criar a interatividade dinâmica da seleção de opções (cores, tamanhos, e imagens) e atualização do título do produto.
 
-Exportar para as Planilhas
-### 📁 Estrutura do Projeto
-.
-├── index.html          # Estrutura principal da página
-├── style.css           # Estilização (inclui as regras apresentadas)
-├── script.js           # Lógica de interatividade (inclui o código apresentado)
-└── imagens/            # Pasta com todas as imagens do produto
-    ├── opcoes-cores/
-    │   ├── imagens-azul-inverno/
-    │   ├── imagens-verde-cipreste/
-    │   └── ... (outras pastas de cores)
-    └── outros-recursos/
-        └── ... (selos e outros ícones)
 ## 🎯 O que aprendi neste projeto
 Manipulação Avançada do DOM: Como selecionar e modificar elementos dinamicamente (e.g., innerText, src, classList.add/remove) em resposta a eventos de click em radio buttons.
 
