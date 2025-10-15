@@ -1,5 +1,6 @@
 # 💻 Site de Vendas de Relógios - Simulação de Página de Produto Apple Watch
-Este é um projeto de simulação de uma página de detalhes de produto do Apple Watch (RELÓGIOS), desenvolvido para praticar e consolidar conhecimentos em HTML, CSS e JavaScript.
+Este é um projeto de simulação de uma página de detalhes de produto do Apple Watch (RELÓGIOS), desenvolvido para praticar e consolidar conhecimentos em HTML, CSS e JavaScript.<br>
+# [Link Do Projeto](https://luana-mozer.github.io/PROJETO_10_Replica_Apple_watch)<br>
 <img width="1023" height="607" alt="Image" src="https://github.com/user-attachments/assets/410635eb-d4ea-4c0c-91d5-3be0dea310e2" />
 
 ## 🌟 Funcionalidades
